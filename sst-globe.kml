@@ -324,14 +324,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -7.5,90,0 -7.5,0,0 -7.5,-90,0 7.5,-90,0 7.5,0,0 7.5,90,0 -7.5,90,0
+                            -7.5,80,0 -7.5,0,0 7.5,0,0 7.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>0,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -7.5,0,0 -7.5,-80,0 7.5,-80,0 7.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw1">
@@ -343,14 +349,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -22.5,90,0 -22.5,0,0 -22.5,-90,0 -7.5,-90,0 -7.5,0,0 -7.5,90,0 -22.5,90,0
+                            -22.5,80,0 -22.5,0,0 -7.5,0,0 -7.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-15,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -22.5,0,0 -22.5,-80,0 -7.5,-80,0 -7.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw2">
@@ -362,14 +374,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -37.5,90,0 -37.5,0,0 -37.5,-90,0 -22.5,-90,0 -22.5,0,0 -22.5,90,0 -37.5,90,0
+                            -37.5,80,0 -37.5,0,0 -22.5,0,0 -22.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-30,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -37.5,0,0 -37.5,-80,0 -22.5,-80,0 -22.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw3">
@@ -381,14 +399,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -52.5,90,0 -52.5,0,0 -52.5,-90,0 -37.5,-90,0 -37.5,0,0 -37.5,90,0 -52.5,90,0
+                            -52.5,80,0 -52.5,0,0 -37.5,0,0 -37.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-45,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -52.5,0,0 -52.5,-80,0 -37.5,-80,0 -37.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw4">
@@ -400,14 +424,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -67.5,90,0 -67.5,0,0 -67.5,-90,0 -52.5,-90,0 -52.5,0,0 -52.5,90,0 -67.5,90,0
+                            -67.5,80,0 -67.5,0,0 -52.5,0,0 -52.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-60,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -67.5,0,0 -67.5,-80,0 -52.5,-80,0 -52.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw5">
@@ -419,14 +449,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -82.5,90,0 -82.5,0,0 -82.5,-90,0 -67.5,-90,0 -67.5,0,0 -67.5,90,0 -82.5,90,0
+                            -82.5,80,0 -82.5,0,0 -67.5,0,0 -67.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-75,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -82.5,0,0 -82.5,-80,0 -67.5,-80,0 -67.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw6">
@@ -438,14 +474,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -97.5,90,0 -97.5,0,0 -97.5,-90,0 -82.5,-90,0 -82.5,0,0 -82.5,90,0 -97.5,90,0
+                            -97.5,80,0 -97.5,0,0 -82.5,0,0 -82.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-90,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -97.5,0,0 -97.5,-80,0 -82.5,-80,0 -82.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw7">
@@ -457,14 +499,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -112.5,90,0 -112.5,0,0 -112.5,-90,0 -97.5,-90,0 -97.5,0,0 -97.5,90,0 -112.5,90,0
+                            -112.5,80,0 -112.5,0,0 -97.5,0,0 -97.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-105,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -112.5,0,0 -112.5,-80,0 -97.5,-80,0 -97.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw8">
@@ -476,14 +524,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -127.5,90,0 -127.5,0,0 -127.5,-90,0 -112.5,-90,0 -112.5,0,0 -112.5,90,0 -127.5,90,0
+                            -127.5,80,0 -127.5,0,0 -112.5,0,0 -112.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-120,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -127.5,0,0 -127.5,-80,0 -112.5,-80,0 -112.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw9">
@@ -495,14 +549,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -142.5,90,0 -142.5,0,0 -142.5,-90,0 -127.5,-90,0 -127.5,0,0 -127.5,90,0 -142.5,90,0
+                            -142.5,80,0 -142.5,0,0 -127.5,0,0 -127.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-135,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -142.5,0,0 -142.5,-80,0 -127.5,-80,0 -127.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw10">
@@ -514,14 +574,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -157.5,90,0 -157.5,0,0 -157.5,-90,0 -142.5,-90,0 -142.5,0,0 -142.5,90,0 -157.5,90,0
+                            -157.5,80,0 -157.5,0,0 -142.5,0,0 -142.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-150,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -157.5,0,0 -157.5,-80,0 -142.5,-80,0 -142.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw11">
@@ -533,14 +599,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -172.5,90,0 -172.5,0,0 -172.5,-90,0 -157.5,-90,0 -157.5,0,0 -157.5,90,0 -172.5,90,0
+                            -172.5,80,0 -172.5,0,0 -157.5,0,0 -157.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>-165,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            -172.5,0,0 -172.5,-80,0 -157.5,-80,0 -157.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utc12">
@@ -552,14 +624,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            172.5,90,0 172.5,0,0 172.5,-90,0 187.5,-90,0 187.5,0,0 187.5,90,0 172.5,90,0
+                            172.5,80,0 172.5,0,0 187.5,0,0 187.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>180,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            172.5,0,0 172.5,-80,0 187.5,-80,0 187.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce11">
@@ -571,14 +649,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            157.5,90,0 157.5,0,0 157.5,-90,0 172.5,-90,0 172.5,0,0 172.5,90,0 157.5,90,0
+                            157.5,80,0 157.5,0,0 172.5,0,0 172.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>165,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            157.5,0,0 157.5,-80,0 172.5,-80,0 172.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce10">
@@ -590,14 +674,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            142.5,90,0 142.5,0,0 142.5,-90,0 157.5,-90,0 157.5,0,0 157.5,90,0 142.5,90,0
+                            142.5,80,0 142.5,0,0 157.5,0,0 157.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>150,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            142.5,0,0 142.5,-80,0 157.5,-80,0 157.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce9">
@@ -609,14 +699,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            127.5,90,0 127.5,0,0 127.5,-90,0 142.5,-90,0 142.5,0,0 142.5,90,0 127.5,90,0
+                            127.5,80,0 127.5,0,0 142.5,0,0 142.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>135,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            127.5,0,0 127.5,-80,0 142.5,-80,0 142.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce8">
@@ -628,14 +724,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            112.5,90,0 112.5,0,0 112.5,-90,0 127.5,-90,0 127.5,0,0 127.5,90,0 112.5,90,0
+                            112.5,80,0 112.5,0,0 127.5,0,0 127.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>120,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            112.5,0,0 112.5,-80,0 127.5,-80,0 127.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce7">
@@ -647,14 +749,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            97.5,90,0 97.5,0,0 97.5,-90,0 112.5,-90,0 112.5,0,0 112.5,90,0 97.5,90,0
+                            97.5,80,0 97.5,0,0 112.5,0,0 112.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>105,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            97.5,0,0 97.5,-80,0 112.5,-80,0 112.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce6">
@@ -666,14 +774,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            82.5,90,0 82.5,0,0 82.5,-90,0 97.5,-90,0 97.5,0,0 97.5,90,0 82.5,90,0
+                            82.5,80,0 82.5,0,0 97.5,0,0 97.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>90,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            82.5,0,0 82.5,-80,0 97.5,-80,0 97.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce5">
@@ -685,14 +799,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            67.5,90,0 67.5,0,0 67.5,-90,0 82.5,-90,0 82.5,0,0 82.5,90,0 67.5,90,0
+                            67.5,80,0 67.5,0,0 82.5,0,0 82.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>75,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            67.5,0,0 67.5,-80,0 82.5,-80,0 82.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce4">
@@ -704,14 +824,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            52.5,90,0 52.5,0,0 52.5,-90,0 67.5,-90,0 67.5,0,0 67.5,90,0 52.5,90,0
+                            52.5,80,0 52.5,0,0 67.5,0,0 67.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>60,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            52.5,0,0 52.5,-80,0 67.5,-80,0 67.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce3">
@@ -723,14 +849,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            37.5,90,0 37.5,0,0 37.5,-90,0 52.5,-90,0 52.5,0,0 52.5,90,0 37.5,90,0
+                            37.5,80,0 37.5,0,0 52.5,0,0 52.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>45,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            37.5,0,0 37.5,-80,0 52.5,-80,0 52.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce2">
@@ -742,14 +874,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            22.5,90,0 22.5,0,0 22.5,-90,0 37.5,-90,0 37.5,0,0 37.5,90,0 22.5,90,0
+                            22.5,80,0 22.5,0,0 37.5,0,0 37.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>30,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            22.5,0,0 22.5,-80,0 37.5,-80,0 37.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce1">
@@ -761,14 +899,20 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            7.5,90,0 7.5,0,0 7.5,-90,0 22.5,-90,0 22.5,0,0 22.5,90,0 7.5,90,0
+                            7.5,80,0 7.5,0,0 22.5,0,0 22.5,80,0
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
-            <Point>
-                <coordinates>15,0,0</coordinates>
-            </Point>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            7.5,0,0 7.5,-80,0 22.5,-80,0 22.5,0,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
         </MultiGeometry>
     </Placemark>
 </Document>
