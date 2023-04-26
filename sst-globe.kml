@@ -1,296 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document id="1EYB0VU4tAaIT2rkRyPdjBiFhakd9-3N-">
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="_1EYB0VU4tAaIT2rkRyPdjBiFhakd9-3N-">
     <name>Ideal Standard Time Zones</name>
     <description>Ideally each location observes the UTC offset of its nearest meridian, to align clocks within 30 minutes of solar time across zones. Solar alignment benefits health, safety, education, and economy.</description>
-    <gx:CascadingStyle kml:id="__managed_style_17B8B409241F0906FAEE"><!-- yellow normal -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>2</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=fcd440&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>7740d4fc</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>7740d4fc</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_1AAA2742CE1F09125C51"><!-- pink normal -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>2</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=D440FC&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>77fc40d4</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>77fc40d4</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_2D80AE12EE1F0906FAF0"><!-- purple normal -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>2</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=2C48B0&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>77b0482c</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>77b0482c</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_1B2F6BBD0B1F0906FAF1"><!-- orange normal -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>2</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=EC4604&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>770446ec</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>770446ec</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_1C601EEE2B1F0906FAF2"><!-- cyan normal -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>2</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=40FCD4&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>77d4fc40</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>77d4fc40</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_110A56E3D91F0906FAF3"><!-- green normal -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>2</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=48B02C&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>772cb048</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>772cb048</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_099D3D62201F0906FAEF"><!-- yellow highlight -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>4</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=fcd440&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>7740d4fc</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>7740d4fc</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_01826421841F0906FAF0"><!-- pink highlight -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>4</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=D440FC&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>77fc40d4</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>77fc40d4</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_3EFD6068F61F0906FAF0"><!-- purple highlight -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>4</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=2C48B0&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>77b0482c</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>77b0482c</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_2BF34D22E11F0906FAF1"><!-- orange highlight -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>4</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=EC4604&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>770446ec</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>770446ec</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_2CE2B839391F0906FAF2"><!-- cyan highlight -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>4</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=40FCD4&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>77d4fc40</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>77d4fc40</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
-    <gx:CascadingStyle kml:id="__managed_style_06616F3C821F0906FAF4"><!-- green highlight -->
-        <styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
-        <Style>
-            <IconStyle>
-                <scale>4</scale>
-                <Icon>
-                    <href>https://earth.google.com/earth/rpc/cc/icon?color=48B02C&amp;id=2000&amp;scale=4</href>
-                </Icon>
-                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-            </IconStyle>
-            <LabelStyle>
-                <scale>5</scale>
-            </LabelStyle>
-            <LineStyle>
-                <color>772cb048</color>
-                <width>0.5</width>
-            </LineStyle>
-            <PolyStyle>
-                <color>772cb048</color>
-            </PolyStyle>
-            <BalloonStyle>
-            </BalloonStyle>
-        </Style>
-    </gx:CascadingStyle>
+    <Style id="__managed_style_17B8B409241F0906FAEE"><!-- yellow normal -->
+        <IconStyle>
+            <scale>2</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=fcd440&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>7740d4fc</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>7740d4fc</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_1AAA2742CE1F09125C51"><!-- pink normal -->
+        <IconStyle>
+            <scale>2</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=D440FC&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>77fc40d4</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>77fc40d4</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_2D80AE12EE1F0906FAF0"><!-- purple normal -->
+        <IconStyle>
+            <scale>2</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=2C48B0&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>77b0482c</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>77b0482c</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_1B2F6BBD0B1F0906FAF1"><!-- orange normal -->
+        <IconStyle>
+            <scale>2</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=EC4604&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>770446ec</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>770446ec</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_1C601EEE2B1F0906FAF2"><!-- cyan normal -->
+        <IconStyle>
+            <scale>2</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=40FCD4&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>77d4fc40</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>77d4fc40</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_110A56E3D91F0906FAF3"><!-- green normal -->
+        <IconStyle>
+            <scale>2</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=48B02C&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>772cb048</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>772cb048</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_099D3D62201F0906FAEF"><!-- yellow highlight -->
+        <IconStyle>
+            <scale>4</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=fcd440&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>7740d4fc</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>7740d4fc</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_01826421841F0906FAF0"><!-- pink highlight -->
+        <IconStyle>
+            <scale>4</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=D440FC&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>77fc40d4</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>77fc40d4</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_3EFD6068F61F0906FAF0"><!-- purple highlight -->
+        <IconStyle>
+            <scale>4</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=2C48B0&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>77b0482c</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>77b0482c</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_2BF34D22E11F0906FAF1"><!-- orange highlight -->
+        <IconStyle>
+            <scale>4</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=EC4604&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>770446ec</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>770446ec</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_2CE2B839391F0906FAF2"><!-- cyan highlight -->
+        <IconStyle>
+            <scale>4</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=40FCD4&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>77d4fc40</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>77d4fc40</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
+    <Style id="__managed_style_06616F3C821F0906FAF4"><!-- green highlight -->
+        <IconStyle>
+            <scale>4</scale>
+            <Icon>
+                <href>https://earth.google.com/earth/rpc/cc/icon?color=48B02C&amp;id=2000&amp;scale=4</href>
+            </Icon>
+            <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+        </IconStyle>
+        <LabelStyle>
+            <scale>5</scale>
+        </LabelStyle>
+        <LineStyle>
+            <color>772cb048</color>
+            <width>0.5</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>772cb048</color>
+        </PolyStyle>
+        <BalloonStyle>
+        </BalloonStyle>
+    </Style>
     <StyleMap id="__managed_style_05358BB35E1F0906FAEE"><!-- yellow -->
         <Pair>
             <key>normal</key>
@@ -354,16 +318,6 @@
     <Placemark id="utc">
         <name>UTC</name>
         <description><![CDATA[<div><strong>Meridian 0°</strong><br><br></div><div>Coordinated Universal Time (UTC)<br></div><div>Greenwich Mean Time (GMT)<br></div><div>Western European Time (WET)<br></div>]]></description>
-        <LookAt>
-            <longitude>0</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05358BB35E1F0906FAEE</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -380,19 +334,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-1">
+    <Placemark id="utcw1">
         <name>UTC–1</name>
         <description><![CDATA[<div><strong>Meridian 15°W</strong><br><br></div><div>East Greenland Time (EGT)<br></div>]]></description>
-        <LookAt>
-            <longitude>-15</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_02D1EDCE5C1F09125C51</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -409,19 +353,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-2">
+    <Placemark id="utcw2">
         <name>UTC–2</name>
         <description><![CDATA[<div><strong>Meridian 30°W</strong><br><br></div><div>South Georgia Time (GST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-30</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_10F94379BB1F0906FAF0</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -438,19 +372,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-3">
+    <Placemark id="utcw3">
         <name>UTC–3</name>
         <description><![CDATA[<div><strong>Meridian 45°W</strong><br><br></div><div>West Greenland Time (WGT)<br></div>]]></description>
-        <LookAt>
-            <longitude>-45</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05E64B860E1F0906FAF1</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -467,19 +391,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-4">
+    <Placemark id="utcw4">
         <name>UTC–4</name>
         <description><![CDATA[<div><strong>Meridian 60°W</strong><br><br></div><div>Atlantic Standard Time (AST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-60</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0B4365C3D21F0906FAF2</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -496,19 +410,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-5">
+    <Placemark id="utcw5">
         <name>UTC–5</name>
         <description><![CDATA[<div><strong>Meridian 75°W</strong><br><br></div><div>Eastern Standard Time (EST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-75</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0505E476A21F0906FAF3</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -525,19 +429,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-6">
+    <Placemark id="utcw6">
         <name>UTC–6</name>
         <description><![CDATA[<div><strong>Meridian 90°W</strong><br><br></div><div>Central Standard Time (CST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-90</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05358BB35E1F0906FAEE</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -554,19 +448,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-7">
+    <Placemark id="utcw7">
         <name>UTC–7</name>
         <description><![CDATA[<div><strong>Meridian 105°W</strong><br><br></div><div>Mountain Standard Time (MST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-105</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_02D1EDCE5C1F09125C51</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -583,19 +467,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-8">
+    <Placemark id="utcw8">
         <name>UTC–8</name>
         <description><![CDATA[<div><strong>Meridian 120°W</strong><br><br></div><div>Pacific Standard Time (PST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-120</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_10F94379BB1F0906FAF0</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -612,19 +486,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-9">
+    <Placemark id="utcw9">
         <name>UTC–9</name>
         <description><![CDATA[<div><strong>Meridian 135°W</strong><br><br></div><div>Alaska Standard Time (AKST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-135</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05E64B860E1F0906FAF1</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -641,19 +505,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-10">
+    <Placemark id="utcw10">
         <name>UTC–10</name>
         <description><![CDATA[<div><strong>Meridian 150°W</strong><br><br></div><div>Hawaii Standard Time (HST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-150</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0B4365C3D21F0906FAF2</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -670,19 +524,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc-11">
+    <Placemark id="utcw11">
         <name>UTC–11</name>
         <description><![CDATA[<div><strong>Meridian 165°W</strong><br><br></div><div>Samoa Standard Time (SST)<br></div>]]></description>
-        <LookAt>
-            <longitude>-165</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0505E476A21F0906FAF3</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -702,16 +546,6 @@
     <Placemark id="utc12">
         <name>UTC±12</name>
         <description><![CDATA[<div><strong>Meridian 180°</strong><br><br></div><div>Anywhere on Earth (AoE)<br></div><div>New Zealand Standard Time (NZST)<br></div>]]></description>
-        <LookAt>
-            <longitude>180</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05358BB35E1F0906FAEE</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -728,19 +562,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+11">
+    <Placemark id="utce11">
         <name>UTC+11</name>
         <description><![CDATA[<div><strong>Meridian 165°E</strong><br><br></div><div>Solomon Islands Time (SBT)<br></div>]]></description>
-        <LookAt>
-            <longitude>165</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_02D1EDCE5C1F09125C51</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -757,19 +581,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+10">
+    <Placemark id="utce10">
         <name>UTC+10</name>
         <description><![CDATA[<div><strong>Meridian 150°E</strong><br><br></div><div>Chamorro Standard Time (ChST)<br></div><div>Australian Eastern Standard Time (AEST)<br></div>]]></description>
-        <LookAt>
-            <longitude>150</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_10F94379BB1F0906FAF0</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -786,19 +600,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+9">
+    <Placemark id="utce9">
         <name>UTC+9</name>
         <description><![CDATA[<div><strong>Meridian 135°E</strong><br><br></div><div>Japan Standard Time (JST)</div>]]></description>
-        <LookAt>
-            <longitude>135</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05E64B860E1F0906FAF1</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -815,19 +619,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+8">
+    <Placemark id="utce8">
         <name>UTC+8</name>
         <description><![CDATA[<div><strong>Meridian 120°E</strong><br><br></div><div>Australian Western Standard Time (AWST)</div>]]></description>
-        <LookAt>
-            <longitude>120</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0B4365C3D21F0906FAF2</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -844,19 +638,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+7">
+    <Placemark id="utce7">
         <name>UTC+7</name>
         <description><![CDATA[<div><strong>Meridian 105°E</strong><br><br></div><div>Indochina Time (ICT)</div>]]></description>
-        <LookAt>
-            <longitude>105</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0505E476A21F0906FAF3</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -873,19 +657,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+6">
+    <Placemark id="utce6">
         <name>UTC+6</name>
         <description><![CDATA[<div><strong>Meridian 90°E</strong><br><br></div><div>Bangladesh Standard Time (BST)</div>]]></description>
-        <LookAt>
-            <longitude>90</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05358BB35E1F0906FAEE</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -902,19 +676,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+5">
+    <Placemark id="utce5">
         <name>UTC+5</name>
         <description><![CDATA[<div><strong>Meridian 75°E</strong><br><br></div><div>Pakistan Standard Time (PKT)</div>]]></description>
-        <LookAt>
-            <longitude>75</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_02D1EDCE5C1F09125C51</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -931,19 +695,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+4">
+    <Placemark id="utce4">
         <name>UTC+4</name>
         <description><![CDATA[<div><strong>Meridian 60°E</strong><br><br></div><div>Samara Time (SAMT)</div>]]></description>
-        <LookAt>
-            <longitude>60</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_10F94379BB1F0906FAF0</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -960,19 +714,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+3">
+    <Placemark id="utce3">
         <name>UTC+3</name>
         <description><![CDATA[<div><strong>Meridian 45°E</strong><br><br></div><div>Moscow Standard Time (MSK)</div>]]></description>
-        <LookAt>
-            <longitude>45</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_05E64B860E1F0906FAF1</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -989,19 +733,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+2">
+    <Placemark id="utce2">
         <name>UTC+2</name>
         <description><![CDATA[<div><strong>Meridian 30°E</strong><br><br></div><div>Eastern European Time (EET)</div>]]></description>
-        <LookAt>
-            <longitude>30</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0B4365C3D21F0906FAF2</styleUrl>
         <MultiGeometry>
             <Polygon>
@@ -1018,19 +752,9 @@
             </Point>
         </MultiGeometry>
     </Placemark>
-    <Placemark id="utc+1">
+    <Placemark id="utce1">
         <name>UTC+1</name>
         <description><![CDATA[<div><strong>Meridian 15°E</strong><br><br></div><div>Central European Time (CET)<br></div>]]></description>
-        <LookAt>
-            <longitude>15</longitude>
-            <latitude>0</latitude>
-            <altitude>9000000</altitude>
-            <heading>0</heading>
-            <tilt>0</tilt>
-            <gx:fovy>35</gx:fovy>
-            <range>9000000</range>
-            <altitudeMode>absolute</altitudeMode>
-        </LookAt>
         <styleUrl>#__managed_style_0505E476A21F0906FAF3</styleUrl>
         <MultiGeometry>
             <Polygon>
