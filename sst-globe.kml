@@ -3,6 +3,12 @@
 <Document id="_1EYB0VU4tAaIT2rkRyPdjBiFhakd9-3N-">
     <name>Ideal Standard Time Zones</name>
     <description>Ideally each location observes the UTC offset of its nearest meridian, to align clocks within 30 minutes of solar time across zones. Solar alignment benefits health, safety, education, and economy.</description>
+    <!--
+        MG observes unexpected behavior in Google My Maps as of Apr 2023:
+        - LabelStyle scale ignored
+        - PolyStyle outline sense inverted
+        - StyleMap highlight style ignored
+    -->
     <Style id="__managed_style_17B8B409241F0906FAEE"><!-- yellow normal -->
         <IconStyle>
             <scale>2</scale>
@@ -15,11 +21,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>7740d4fc</color>
-            <width>0.5</width>
+            <color>330099cc</color>
+            <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>7740d4fc</color>
+            <color>330099cc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -36,11 +42,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>77fc40d4</color>
-            <width>0.5</width>
+            <color>33cc0099</color>
+            <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>77fc40d4</color>
+            <color>33cc0099</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -57,11 +63,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>77b0482c</color>
-            <width>0.5</width>
+            <color>33cc3300</color>
+            <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>77b0482c</color>
+            <color>33cc3300</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -78,11 +84,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>770446ec</color>
-            <width>0.5</width>
+            <color>330033cc</color>
+            <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>770446ec</color>
+            <color>330033cc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -99,11 +105,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>77d4fc40</color>
-            <width>0.5</width>
+            <color>3399cc00</color>
+            <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>77d4fc40</color>
+            <color>3399cc00</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -120,11 +126,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>772cb048</color>
-            <width>0.5</width>
+            <color>3300cc33</color>
+            <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>772cb048</color>
+            <color>3300cc33</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -141,11 +147,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>7740d4fc</color>
-            <width>0.5</width>
+            <color>ff0099cc</color>
+            <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>7740d4fc</color>
+            <color>220099cc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -162,11 +168,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>77fc40d4</color>
-            <width>0.5</width>
+            <color>ffcc0099</color>
+            <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>77fc40d4</color>
+            <color>22cc0099</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -183,11 +189,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>77b0482c</color>
-            <width>0.5</width>
+            <color>ffcc3300</color>
+            <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>77b0482c</color>
+            <color>22cc3300</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -204,11 +210,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>770446ec</color>
-            <width>0.5</width>
+            <color>ff0033cc</color>
+            <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>770446ec</color>
+            <color>220033cc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -225,11 +231,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>77d4fc40</color>
-            <width>0.5</width>
+            <color>ff99cc00</color>
+            <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>77d4fc40</color>
+            <color>2299cc00</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -246,11 +252,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>772cb048</color>
-            <width>0.5</width>
+            <color>ff00cc33</color>
+            <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>772cb048</color>
+            <color>2200cc33</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
