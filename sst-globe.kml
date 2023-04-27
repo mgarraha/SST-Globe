@@ -21,11 +21,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>330099cc</color>
+            <color>5500c6fc</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>330099cc</color>
+            <color>5500c6fc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -42,16 +42,16 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>33cc0099</color>
+            <color>55fc00c6</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>33cc0099</color>
+            <color>55fc00c6</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
     </Style>
-    <Style id="__managed_style_2D80AE12EE1F0906FAF0"><!-- purple normal -->
+    <Style id="__managed_style_2D80AE12EE1F0906FAF0"><!-- indigo normal -->
         <IconStyle>
             <scale>2</scale>
             <Icon>
@@ -63,11 +63,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>33cc3300</color>
+            <color>55b02500</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>33cc3300</color>
+            <color>55b02500</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -84,11 +84,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>330033cc</color>
+            <color>550043ec</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>330033cc</color>
+            <color>550043ec</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -105,11 +105,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>3399cc00</color>
+            <color>55c6fc00</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>3399cc00</color>
+            <color>55c6fc00</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -126,11 +126,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>3300cc33</color>
+            <color>5500b025</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>3300cc33</color>
+            <color>5500b025</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -147,11 +147,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff0099cc</color>
+            <color>ff00c6fc</color>
             <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>220099cc</color>
+            <color>3300c6fc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -168,16 +168,16 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ffcc0099</color>
+            <color>fffc00c6</color>
             <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>22cc0099</color>
+            <color>33fc00c6</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
     </Style>
-    <Style id="__managed_style_3EFD6068F61F0906FAF0"><!-- purple highlight -->
+    <Style id="__managed_style_3EFD6068F61F0906FAF0"><!-- indigo highlight -->
         <IconStyle>
             <scale>4</scale>
             <Icon>
@@ -189,11 +189,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ffcc3300</color>
+            <color>ffb02500</color>
             <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>22cc3300</color>
+            <color>33b02500</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -210,11 +210,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff0033cc</color>
+            <color>ff0043ec</color>
             <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>220033cc</color>
+            <color>330043ec</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -231,11 +231,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff99cc00</color>
+            <color>ffc6fc00</color>
             <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>2299cc00</color>
+            <color>33c6fc00</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -252,11 +252,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff00cc33</color>
+            <color>ff00b025</color>
             <width>2</width>
         </LineStyle>
         <PolyStyle>
-            <color>2200cc33</color>
+            <color>3300b025</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
