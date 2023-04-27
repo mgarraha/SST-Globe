@@ -147,8 +147,8 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff00c6fc</color>
-            <width>2</width>
+            <color>aa00c6fc</color>
+            <width>1</width>
         </LineStyle>
         <PolyStyle>
             <color>3300c6fc</color>
@@ -168,8 +168,8 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>fffc00c6</color>
-            <width>2</width>
+            <color>aafc00c6</color>
+            <width>1</width>
         </LineStyle>
         <PolyStyle>
             <color>33fc00c6</color>
@@ -189,8 +189,8 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ffb02500</color>
-            <width>2</width>
+            <color>aab02500</color>
+            <width>1</width>
         </LineStyle>
         <PolyStyle>
             <color>33b02500</color>
@@ -210,8 +210,8 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff0043ec</color>
-            <width>2</width>
+            <color>aa0043ec</color>
+            <width>1</width>
         </LineStyle>
         <PolyStyle>
             <color>330043ec</color>
@@ -231,8 +231,8 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ffc6fc00</color>
-            <width>2</width>
+            <color>aac6fc00</color>
+            <width>1</width>
         </LineStyle>
         <PolyStyle>
             <color>33c6fc00</color>
@@ -252,8 +252,8 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>ff00b025</color>
-            <width>2</width>
+            <color>aa00b025</color>
+            <width>1</width>
         </LineStyle>
         <PolyStyle>
             <color>3300b025</color>
