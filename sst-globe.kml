@@ -21,11 +21,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>5500c6fc</color>
+            <color>4400c6fc</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>5500c6fc</color>
+            <color>4400c6fc</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -42,11 +42,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>55fc00c6</color>
+            <color>44fc00c6</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>55fc00c6</color>
+            <color>44fc00c6</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -63,11 +63,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>55b02500</color>
+            <color>44b02500</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>55b02500</color>
+            <color>44b02500</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -84,11 +84,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>550043ec</color>
+            <color>440043ec</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>550043ec</color>
+            <color>440043ec</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -105,11 +105,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>55c6fc00</color>
+            <color>44c6fc00</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>55c6fc00</color>
+            <color>44c6fc00</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
@@ -126,11 +126,11 @@
             <scale>5</scale>
         </LabelStyle>
         <LineStyle>
-            <color>5500b025</color>
+            <color>4400b025</color>
             <width>0</width>
         </LineStyle>
         <PolyStyle>
-            <color>5500b025</color>
+            <color>4400b025</color>
         </PolyStyle>
         <BalloonStyle>
         </BalloonStyle>
