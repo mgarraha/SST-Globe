@@ -10,8 +10,8 @@
         - StyleMap highlight style ignored
     -->
     <Placemark id="utc">
-        <name>0°</name>
-        <description><![CDATA[<div>Coordinated Universal Time (UTC)<br></div><div>Greenwich Mean Time (GMT)<br></div><div>Western European Time (WET)<br></div>]]></description>
+        <name>UTC</name>
+	<description><![CDATA[<div>Meridian 0°<br></div><div>Coordinated Universal Time (UTC)<br>Greenwich Mean Time (GMT)<br>Western European Time (WET)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -22,7 +22,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400c6fc</color>
+                <color>4000c6fc</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -30,22 +30,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -7.5,80 -7.5,0 -7.5,-80 7.5,-80 7.5,0 7.5,80
+                            -7.5,84 -7.5,0 -7.5,-84 7.5,-84 7.5,0 7.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>0,40</coordinates>
+                <coordinates>0,37</coordinates>
             </Point>
             <Point>
-                <coordinates>0,-40</coordinates>
+                <coordinates>0,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw1">
-        <name>15°W</name>
-        <description><![CDATA[<div>UTC-1<br></div><div>East Greenland Time (EGT)<br></div>]]></description>
+        <name>UTC-1</name>
+	<description><![CDATA[<div>Meridian 15°W<br></div><div>East Greenland Time (EGT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -56,7 +56,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44fc00c6</color>
+                <color>40fc00c6</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -64,22 +64,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -22.5,80 -22.5,0 -22.5,-80 -7.5,-80 -7.5,0 -7.5,80
+                            -22.5,84 -22.5,0 -22.5,-84 -7.5,-84 -7.5,0 -7.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-15,40</coordinates>
+                <coordinates>-15,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-15,-40</coordinates>
+                <coordinates>-15,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw2">
-        <name>30°W</name>
-        <description><![CDATA[<div>UTC-2<br></div><div>South Georgia Time (GST)<br></div>]]></description>
+        <name>UTC-2</name>
+	<description><![CDATA[<div>Meridian 30°W<br></div><div>South Georgia Time (GST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -90,7 +90,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44b02500</color>
+                <color>40b02500</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -98,22 +98,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -37.5,80 -37.5,0 -37.5,-80 -22.5,-80 -22.5,0 -22.5,80
+                            -37.5,84 -37.5,0 -37.5,-84 -22.5,-84 -22.5,0 -22.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-30,40</coordinates>
+                <coordinates>-30,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-30,-40</coordinates>
+                <coordinates>-30,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw3">
-        <name>45°W</name>
-	<description><![CDATA[<div>UTC-3<br></div><div>West Greenland Time (WGT)<br></div><div>Brasília Time (BRT)<br></div>]]></description>
+        <name>UTC-3</name>
+	<description><![CDATA[<div>Meridian 45°W<br></div><div>West Greenland Time (WGT)<br>Brasília Time (BRT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -124,7 +124,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>440043ec</color>
+                <color>400043ec</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -132,22 +132,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -52.5,80 -52.5,0 -52.5,-80 -37.5,-80 -37.5,0 -37.5,80
+                            -52.5,84 -52.5,0 -52.5,-84 -37.5,-84 -37.5,0 -37.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-45,40</coordinates>
+                <coordinates>-45,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-45,-40</coordinates>
+                <coordinates>-45,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw4">
-        <name>60°W</name>
-	<description><![CDATA[<div>UTC-4<br></div><div>Atlantic Standard Time (AST)<br></div><div>Amazon Time (AMT)<br></div>]]></description>
+        <name>UTC-4</name>
+        <description><![CDATA[<div>Meridian 60°W<br></div><div>Atlantic Standard Time (AST)<br>Amazon Time (AMT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -158,7 +158,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44c6fc00</color>
+                <color>40c6fc00</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -166,22 +166,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -67.5,80 -67.5,0 -67.5,-80 -52.5,-80 -52.5,0 -52.5,80
+                            -67.5,84 -67.5,0 -67.5,-84 -52.5,-84 -52.5,0 -52.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-60,40</coordinates>
+                <coordinates>-60,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-60,-40</coordinates>
+                <coordinates>-60,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw5">
-        <name>75°W</name>
-        <description><![CDATA[<div>UTC-5<br></div><div>Eastern Standard Time (EST)<br></div>]]></description>
+        <name>UTC-5</name>
+        <description><![CDATA[<div>Meridian 75°W<br></div><div>Eastern Standard Time (EST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -192,7 +192,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400b025</color>
+                <color>4000b025</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -200,22 +200,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -82.5,80 -82.5,0 -82.5,-80 -67.5,-80 -67.5,0 -67.5,80
+                            -82.5,84 -82.5,0 -82.5,-84 -67.5,-84 -67.5,0 -67.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-75,40</coordinates>
+                <coordinates>-75,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-75,-40</coordinates>
+                <coordinates>-75,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw6">
-        <name>90°W</name>
-        <description><![CDATA[<div>UTC-6<br></div><div>Central Standard Time (CST)<br></div>]]></description>
+        <name>UTC-6</name>
+        <description><![CDATA[<div>Meridian 90°W<br></div><div>Central Standard Time (CST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -226,7 +226,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400c6fc</color>
+                <color>4000c6fc</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -234,22 +234,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -97.5,80 -97.5,0 -97.5,-80 -82.5,-80 -82.5,0 -82.5,80
+                            -97.5,84 -97.5,0 -97.5,-84 -82.5,-84 -82.5,0 -82.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-90,40</coordinates>
+                <coordinates>-90,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-90,-40</coordinates>
+                <coordinates>-90,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw7">
-        <name>105°W</name>
-        <description><![CDATA[<div>UTC-7<br></div><div>Mountain Standard Time (MST)<br></div>]]></description>
+        <name>UTC-7</name>
+        <description><![CDATA[<div>Meridian 105°W<br></div><div>Mountain Standard Time (MST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -260,7 +260,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44fc00c6</color>
+                <color>40fc00c6</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -268,22 +268,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -112.5,80 -112.5,0 -112.5,-80 -97.5,-80 -97.5,0 -97.5,80
+                            -112.5,84 -112.5,0 -112.5,-84 -97.5,-84 -97.5,0 -97.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-105,40</coordinates>
+                <coordinates>-105,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-105,-40</coordinates>
+                <coordinates>-105,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw8">
-        <name>120°W</name>
-        <description><![CDATA[<div>UTC-8<br></div><div>Pacific Standard Time (PST)<br></div>]]></description>
+        <name>UTC-8</name>
+        <description><![CDATA[<div>Meridian 120°W<br></div><div>Pacific Standard Time (PST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -294,7 +294,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44b02500</color>
+                <color>40b02500</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -302,22 +302,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -127.5,80 -127.5,0 -127.5,-80 -112.5,-80 -112.5,0 -112.5,80
+                            -127.5,84 -127.5,0 -127.5,-84 -112.5,-84 -112.5,0 -112.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-120,40</coordinates>
+                <coordinates>-120,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-120,-40</coordinates>
+                <coordinates>-120,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw9">
-        <name>135°W</name>
-        <description><![CDATA[<div>UTC-9<br></div><div>Alaska Standard Time (AKST)<br></div>]]></description>
+        <name>UTC-9</name>
+        <description><![CDATA[<div>Meridian 135°W<br></div><div>Alaska Standard Time (AKST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -328,7 +328,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>440043ec</color>
+                <color>400043ec</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -336,22 +336,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -142.5,80 -142.5,0 -142.5,-80 -127.5,-80 -127.5,0 -127.5,80
+                            -142.5,84 -142.5,0 -142.5,-84 -127.5,-84 -127.5,0 -127.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-135,40</coordinates>
+                <coordinates>-135,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-135,-40</coordinates>
+                <coordinates>-135,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw10">
-        <name>150°W</name>
-        <description><![CDATA[<div>UTC-10<br></div><div>Hawaii Standard Time (HST)<br></div>]]></description>
+        <name>UTC-10</name>
+        <description><![CDATA[<div>Meridian 150°W<br></div><div>Hawaii Standard Time (HST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -362,7 +362,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44c6fc00</color>
+                <color>40c6fc00</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -370,22 +370,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -157.5,80 -157.5,0 -157.5,-80 -142.5,-80 -142.5,0 -142.5,80
+                            -157.5,84 -157.5,0 -157.5,-84 -142.5,-84 -142.5,0 -142.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-150,40</coordinates>
+                <coordinates>-150,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-150,-40</coordinates>
+                <coordinates>-150,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utcw11">
-        <name>165°W</name>
-        <description><![CDATA[<div>UTC-11<br></div><div>Samoa Standard Time (SST)<br></div>]]></description>
+        <name>UTC-11</name>
+        <description><![CDATA[<div>Meridian 165°W<br></div><div>Samoa Standard Time (SST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -396,7 +396,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400b025</color>
+                <color>4000b025</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -404,22 +404,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            -172.5,80 -172.5,0 -172.5,-80 -157.5,-80 -157.5,0 -157.5,80
+                            -172.5,84 -172.5,0 -172.5,-84 -157.5,-84 -157.5,0 -157.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-165,40</coordinates>
+                <coordinates>-165,37</coordinates>
             </Point>
             <Point>
-                <coordinates>-165,-40</coordinates>
+                <coordinates>-165,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utc12">
-        <name>180°</name>
-        <description><![CDATA[<div>UTC±12<br></div><div>Anywhere on Earth (AoE)<br></div><div>New Zealand Standard Time (NZST)<br></div>]]></description>
+        <name>UTC±12</name>
+        <description><![CDATA[<div>Meridian 180°<br></div><div>Anywhere on Earth (AoE)<br>New Zealand Standard Time (NZST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -430,7 +430,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400c6fc</color>
+                <color>4000c6fc</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -438,22 +438,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            172.5,80 172.5,0 172.5,-80 187.5,-80 187.5,0 187.5,80
+                            172.5,84 172.5,0 172.5,-84 187.5,-84 187.5,0 187.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>180,40</coordinates>
+                <coordinates>180,37</coordinates>
             </Point>
             <Point>
-                <coordinates>180,-40</coordinates>
+                <coordinates>180,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce11">
-        <name>165°E</name>
-        <description><![CDATA[<div>UTC+11<br></div><div>Solomon Islands Time (SBT)<br></div>]]></description>
+        <name>UTC+11</name>
+        <description><![CDATA[<div>Meridian 165°E<br></div><div>Solomon Islands Time (SBT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -464,7 +464,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44fc00c6</color>
+                <color>40fc00c6</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -472,22 +472,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            157.5,80 157.5,0 157.5,-80 172.5,-80 172.5,0 172.5,80
+                            157.5,84 157.5,0 157.5,-84 172.5,-84 172.5,0 172.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>165,40</coordinates>
+                <coordinates>165,37</coordinates>
             </Point>
             <Point>
-                <coordinates>165,-40</coordinates>
+                <coordinates>165,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce10">
-        <name>150°E</name>
-        <description><![CDATA[<div>UTC+10<br></div><div>Chamorro Standard Time (ChST)<br></div><div>Australian Eastern Standard Time (AEST)<br></div>]]></description>
+        <name>UTC+10</name>
+        <description><![CDATA[<div>Meridian 150°E<br></div><div>Chamorro Standard Time (ChST)<br>Australian Eastern Standard Time (AEST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -498,7 +498,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44b02500</color>
+                <color>40b02500</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -506,22 +506,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            142.5,80 142.5,0 142.5,-80 157.5,-80 157.5,0 157.5,80
+                            142.5,84 142.5,0 142.5,-84 157.5,-84 157.5,0 157.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>150,40</coordinates>
+                <coordinates>150,37</coordinates>
             </Point>
             <Point>
-                <coordinates>150,-40</coordinates>
+                <coordinates>150,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce9">
-        <name>135°E</name>
-	<description><![CDATA[<div>UTC+9<br></div><div>Japan Standard Time (JST)<br></div><div>Korea Standard Time (KST)<br></div>]]></description>
+        <name>UTC+9</name>
+	<description><![CDATA[<div>Meridian 135°E<br></div><div>Japan Standard Time (JST)<br>Korea Standard Time (KST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -532,7 +532,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>440043ec</color>
+                <color>400043ec</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -540,22 +540,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            127.5,80 127.5,0 127.5,-80 142.5,-80 142.5,0 142.5,80
+                            127.5,84 127.5,0 127.5,-84 142.5,-84 142.5,0 142.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>135,40</coordinates>
+                <coordinates>135,37</coordinates>
             </Point>
             <Point>
-                <coordinates>135,-40</coordinates>
+                <coordinates>135,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce8">
-        <name>120°E</name>
-	<description><![CDATA[<div>UTC+8<br></div><div>China Standard Time (CST)<br></div><div>Australian Western Standard Time (AWST)<br></div>]]></description>
+        <name>UTC+8</name>
+	<description><![CDATA[<div>Meridian 120°E<br></div><div>China Standard Time (CST)<br>Australian Western Standard Time (AWST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -566,7 +566,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44c6fc00</color>
+                <color>40c6fc00</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -574,22 +574,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            112.5,80 112.5,0 112.5,-80 127.5,-80 127.5,0 127.5,80
+                            112.5,84 112.5,0 112.5,-84 127.5,-84 127.5,0 127.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>120,40</coordinates>
+                <coordinates>120,37</coordinates>
             </Point>
             <Point>
-                <coordinates>120,-40</coordinates>
+                <coordinates>120,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce7">
-        <name>105°E</name>
-        <description><![CDATA[<div>UTC+7<br></div><div>Indochina Time (ICT)</div>]]></description>
+        <name>UTC+7</name>
+        <description><![CDATA[<div>Meridian 105°E<br></div><div>Indochina Time (ICT)</div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -600,7 +600,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400b025</color>
+                <color>4000b025</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -608,22 +608,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            97.5,80 97.5,0 97.5,-80 112.5,-80 112.5,0 112.5,80
+                            97.5,84 97.5,0 97.5,-84 112.5,-84 112.5,0 112.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>105,40</coordinates>
+                <coordinates>105,37</coordinates>
             </Point>
             <Point>
-                <coordinates>105,-40</coordinates>
+                <coordinates>105,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce6">
-        <name>90°E</name>
-        <description><![CDATA[<div>UTC+6<br></div><div>Bangladesh Standard Time (BST)</div>]]></description>
+        <name>UTC+6</name>
+        <description><![CDATA[<div>Meridian 90°E<br></div><div>Bangladesh Standard Time (BST)</div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -634,7 +634,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400c6fc</color>
+                <color>4000c6fc</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -642,22 +642,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            82.5,80 82.5,0 82.5,-80 97.5,-80 97.5,0 97.5,80
+                            82.5,84 82.5,0 82.5,-84 97.5,-84 97.5,0 97.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>90,40</coordinates>
+                <coordinates>90,37</coordinates>
             </Point>
             <Point>
-                <coordinates>90,-40</coordinates>
+                <coordinates>90,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce5">
-        <name>75°E</name>
-        <description><![CDATA[<div>UTC+5<br></div><div>Pakistan Standard Time (PKT)</div>]]></description>
+        <name>UTC+5</name>
+        <description><![CDATA[<div>Meridian 75°E<br></div><div>Pakistan Standard Time (PKT)</div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -668,7 +668,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44fc00c6</color>
+                <color>40fc00c6</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -676,22 +676,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            67.5,80 67.5,0 67.5,-80 82.5,-80 82.5,0 82.5,80
+                            67.5,84 67.5,0 67.5,-84 82.5,-84 82.5,0 82.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>75,40</coordinates>
+                <coordinates>75,37</coordinates>
             </Point>
             <Point>
-                <coordinates>75,-40</coordinates>
+                <coordinates>75,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce4">
-        <name>60°E</name>
-	<description><![CDATA[<div>UTC+4<br></div><div>Samara Time (SAMT)<br></div><div>Gulf Standard Time (GST)<br></div>]]></description>
+        <name>UTC+4</name>
+	<description><![CDATA[<div>Meridian 60°E<br></div><div>Samara Time (SAMT)<br>Gulf Standard Time (GST)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -702,7 +702,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44b02500</color>
+                <color>40b02500</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -710,22 +710,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            52.5,80 52.5,0 52.5,-80 67.5,-80 67.5,0 67.5,80
+                            52.5,84 52.5,0 52.5,-84 67.5,-84 67.5,0 67.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>60,40</coordinates>
+                <coordinates>60,37</coordinates>
             </Point>
             <Point>
-                <coordinates>60,-40</coordinates>
+                <coordinates>60,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce3">
-        <name>45°E</name>
-	<description><![CDATA[<div>UTC+3<br></div><div>Moscow Standard Time (MSK)<br></div><div>Arabia Standard Time (AST)<br></div><div>East Africa Time (EAT)<br></div>]]></description>
+        <name>UTC+3</name>
+	<description><![CDATA[<div>Meridian 45°E<br></div><div>Moscow Standard Time (MSK)<br>Arabia Standard Time (AST)<br>East Africa Time (EAT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -736,7 +736,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>440043ec</color>
+                <color>400043ec</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -744,22 +744,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            37.5,80 37.5,0 37.5,-80 52.5,-80 52.5,0 52.5,80
+                            37.5,84 37.5,0 37.5,-84 52.5,-84 52.5,0 52.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>45,40</coordinates>
+                <coordinates>45,37</coordinates>
             </Point>
             <Point>
-                <coordinates>45,-40</coordinates>
+                <coordinates>45,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce2">
-        <name>30°E</name>
-	<description><![CDATA[<div>UTC+2<br></div><div>Eastern European Time (EET)<br></div><div>Central Africa Time (CAT)<br></div>]]></description>
+        <name>UTC+2</name>
+	<description><![CDATA[<div>Meridian 30°E<br></div><div>Eastern European Time (EET)<br>Central Africa Time (CAT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -770,7 +770,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>44c6fc00</color>
+                <color>40c6fc00</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -778,22 +778,22 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            22.5,80 22.5,0 22.5,-80 37.5,-80 37.5,0 37.5,80
+                            22.5,84 22.5,0 22.5,-84 37.5,-84 37.5,0 37.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>30,40</coordinates>
+                <coordinates>30,37</coordinates>
             </Point>
             <Point>
-                <coordinates>30,-40</coordinates>
+                <coordinates>30,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
     <Placemark id="utce1">
-        <name>15°E</name>
-        <description><![CDATA[<div>UTC+1<br></div><div>Central European Time (CET)<br></div><div>West Africa Time (WAT)<br></div>]]></description>
+        <name>UTC+1</name>
+        <description><![CDATA[<div>Meridian 15°E<br></div><div>Central European Time (CET)<br>West Africa Time (WAT)<br></div>]]></description>
         <Style>
             <IconStyle>
                 <Icon>
@@ -804,7 +804,7 @@
                 <width>0</width>
             </LineStyle>
             <PolyStyle>
-                <color>4400b025</color>
+                <color>4000b025</color>
             </PolyStyle>
         </Style>
         <MultiGeometry>
@@ -812,16 +812,16 @@
                 <outerBoundaryIs>
                     <LinearRing>
                         <coordinates>
-                            7.5,80 7.5,0 7.5,-80 22.5,-80 22.5,0 22.5,80
+                            7.5,84 7.5,0 7.5,-84 22.5,-84 22.5,0 22.5,84
                         </coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>15,40</coordinates>
+                <coordinates>15,37</coordinates>
             </Point>
             <Point>
-                <coordinates>15,-40</coordinates>
+                <coordinates>15,-37</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
