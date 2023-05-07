@@ -14,6 +14,7 @@
 	<description><![CDATA[<div>Meridian 0°<br></div><div>Coordinated Universal Time (UTC)<br>Greenwich Mean Time (GMT)<br>Western European Time (WET)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utc.png</href>
                 </Icon>
@@ -36,10 +37,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>0,37</coordinates>
+                <coordinates>0,38</coordinates>
             </Point>
             <Point>
-                <coordinates>0,-37</coordinates>
+                <coordinates>0,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -48,6 +49,7 @@
 	<description><![CDATA[<div>Meridian 15°W<br></div><div>East Greenland Time (EGT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw1.png</href>
                 </Icon>
@@ -70,10 +72,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-15,37</coordinates>
+                <coordinates>-15,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-15,-37</coordinates>
+                <coordinates>-15,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -82,6 +84,7 @@
 	<description><![CDATA[<div>Meridian 30°W<br></div><div>South Georgia Time (GST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw2.png</href>
                 </Icon>
@@ -104,10 +107,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-30,37</coordinates>
+                <coordinates>-30,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-30,-37</coordinates>
+                <coordinates>-30,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -116,6 +119,7 @@
 	<description><![CDATA[<div>Meridian 45°W<br></div><div>West Greenland Time (WGT)<br>Brasília Time (BRT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw3.png</href>
                 </Icon>
@@ -138,10 +142,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-45,37</coordinates>
+                <coordinates>-45,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-45,-37</coordinates>
+                <coordinates>-45,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -150,6 +154,7 @@
         <description><![CDATA[<div>Meridian 60°W<br></div><div>Atlantic Standard Time (AST)<br>Amazon Time (AMT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw4.png</href>
                 </Icon>
@@ -172,10 +177,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-60,37</coordinates>
+                <coordinates>-60,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-60,-37</coordinates>
+                <coordinates>-60,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -184,6 +189,7 @@
         <description><![CDATA[<div>Meridian 75°W<br></div><div>Eastern Standard Time (EST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw5.png</href>
                 </Icon>
@@ -206,10 +212,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-75,37</coordinates>
+                <coordinates>-75,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-75,-37</coordinates>
+                <coordinates>-75,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -218,6 +224,7 @@
         <description><![CDATA[<div>Meridian 90°W<br></div><div>Central Standard Time (CST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw6.png</href>
                 </Icon>
@@ -240,10 +247,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-90,37</coordinates>
+                <coordinates>-90,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-90,-37</coordinates>
+                <coordinates>-90,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -252,6 +259,7 @@
         <description><![CDATA[<div>Meridian 105°W<br></div><div>Mountain Standard Time (MST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw7.png</href>
                 </Icon>
@@ -274,10 +282,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-105,37</coordinates>
+                <coordinates>-105,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-105,-37</coordinates>
+                <coordinates>-105,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -286,6 +294,7 @@
         <description><![CDATA[<div>Meridian 120°W<br></div><div>Pacific Standard Time (PST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw8.png</href>
                 </Icon>
@@ -308,10 +317,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-120,37</coordinates>
+                <coordinates>-120,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-120,-37</coordinates>
+                <coordinates>-120,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -320,6 +329,7 @@
         <description><![CDATA[<div>Meridian 135°W<br></div><div>Alaska Standard Time (AKST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw9.png</href>
                 </Icon>
@@ -342,10 +352,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-135,37</coordinates>
+                <coordinates>-135,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-135,-37</coordinates>
+                <coordinates>-135,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -354,6 +364,7 @@
         <description><![CDATA[<div>Meridian 150°W<br></div><div>Hawaii Standard Time (HST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw10.png</href>
                 </Icon>
@@ -376,10 +387,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-150,37</coordinates>
+                <coordinates>-150,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-150,-37</coordinates>
+                <coordinates>-150,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -388,6 +399,7 @@
         <description><![CDATA[<div>Meridian 165°W<br></div><div>Samoa Standard Time (SST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utcw11.png</href>
                 </Icon>
@@ -410,10 +422,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>-165,37</coordinates>
+                <coordinates>-165,38</coordinates>
             </Point>
             <Point>
-                <coordinates>-165,-37</coordinates>
+                <coordinates>-165,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -422,6 +434,7 @@
         <description><![CDATA[<div>Meridian 180°<br></div><div>Anywhere on Earth (AoE)<br>New Zealand Standard Time (NZST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utc12.png</href>
                 </Icon>
@@ -444,10 +457,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>180,37</coordinates>
+                <coordinates>180,38</coordinates>
             </Point>
             <Point>
-                <coordinates>180,-37</coordinates>
+                <coordinates>180,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -456,6 +469,7 @@
         <description><![CDATA[<div>Meridian 165°E<br></div><div>Solomon Islands Time (SBT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce11.png</href>
                 </Icon>
@@ -478,10 +492,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>165,37</coordinates>
+                <coordinates>165,38</coordinates>
             </Point>
             <Point>
-                <coordinates>165,-37</coordinates>
+                <coordinates>165,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -490,6 +504,7 @@
         <description><![CDATA[<div>Meridian 150°E<br></div><div>Chamorro Standard Time (ChST)<br>Australian Eastern Standard Time (AEST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce10.png</href>
                 </Icon>
@@ -512,10 +527,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>150,37</coordinates>
+                <coordinates>150,38</coordinates>
             </Point>
             <Point>
-                <coordinates>150,-37</coordinates>
+                <coordinates>150,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -524,6 +539,7 @@
 	<description><![CDATA[<div>Meridian 135°E<br></div><div>Japan Standard Time (JST)<br>Korea Standard Time (KST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce9.png</href>
                 </Icon>
@@ -546,10 +562,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>135,37</coordinates>
+                <coordinates>135,38</coordinates>
             </Point>
             <Point>
-                <coordinates>135,-37</coordinates>
+                <coordinates>135,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -558,6 +574,7 @@
 	<description><![CDATA[<div>Meridian 120°E<br></div><div>China Standard Time (CST)<br>Australian Western Standard Time (AWST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce8.png</href>
                 </Icon>
@@ -580,10 +597,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>120,37</coordinates>
+                <coordinates>120,38</coordinates>
             </Point>
             <Point>
-                <coordinates>120,-37</coordinates>
+                <coordinates>120,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -592,6 +609,7 @@
         <description><![CDATA[<div>Meridian 105°E<br></div><div>Indochina Time (ICT)</div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce7.png</href>
                 </Icon>
@@ -614,10 +632,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>105,37</coordinates>
+                <coordinates>105,38</coordinates>
             </Point>
             <Point>
-                <coordinates>105,-37</coordinates>
+                <coordinates>105,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -626,6 +644,7 @@
         <description><![CDATA[<div>Meridian 90°E<br></div><div>Bangladesh Standard Time (BST)</div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce6.png</href>
                 </Icon>
@@ -648,10 +667,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>90,37</coordinates>
+                <coordinates>90,38</coordinates>
             </Point>
             <Point>
-                <coordinates>90,-37</coordinates>
+                <coordinates>90,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -660,6 +679,7 @@
         <description><![CDATA[<div>Meridian 75°E<br></div><div>Pakistan Standard Time (PKT)</div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce5.png</href>
                 </Icon>
@@ -682,10 +702,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>75,37</coordinates>
+                <coordinates>75,38</coordinates>
             </Point>
             <Point>
-                <coordinates>75,-37</coordinates>
+                <coordinates>75,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -694,6 +714,7 @@
 	<description><![CDATA[<div>Meridian 60°E<br></div><div>Samara Time (SAMT)<br>Gulf Standard Time (GST)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce4.png</href>
                 </Icon>
@@ -716,10 +737,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>60,37</coordinates>
+                <coordinates>60,38</coordinates>
             </Point>
             <Point>
-                <coordinates>60,-37</coordinates>
+                <coordinates>60,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -728,6 +749,7 @@
 	<description><![CDATA[<div>Meridian 45°E<br></div><div>Moscow Standard Time (MSK)<br>Arabia Standard Time (AST)<br>East Africa Time (EAT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce3.png</href>
                 </Icon>
@@ -750,10 +772,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>45,37</coordinates>
+                <coordinates>45,38</coordinates>
             </Point>
             <Point>
-                <coordinates>45,-37</coordinates>
+                <coordinates>45,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -762,6 +784,7 @@
 	<description><![CDATA[<div>Meridian 30°E<br></div><div>Eastern European Time (EET)<br>Central Africa Time (CAT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce2.png</href>
                 </Icon>
@@ -784,10 +807,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>30,37</coordinates>
+                <coordinates>30,38</coordinates>
             </Point>
             <Point>
-                <coordinates>30,-37</coordinates>
+                <coordinates>30,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
@@ -796,6 +819,7 @@
         <description><![CDATA[<div>Meridian 15°E<br></div><div>Central European Time (CET)<br>West Africa Time (WAT)<br></div>]]></description>
         <Style>
             <IconStyle>
+                <hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction" />
                 <Icon>
                     <href>images/utce1.png</href>
                 </Icon>
@@ -818,10 +842,10 @@
                 </outerBoundaryIs>
             </Polygon>
             <Point>
-                <coordinates>15,37</coordinates>
+                <coordinates>15,38</coordinates>
             </Point>
             <Point>
-                <coordinates>15,-37</coordinates>
+                <coordinates>15,-38</coordinates>
             </Point>
         </MultiGeometry>
     </Placemark>
